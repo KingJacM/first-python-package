@@ -19,5 +19,5 @@ setuptools.setup(
          "Operating System :: OS Independent",
      ],
 
-     packages=["mydream"]
+
  )
